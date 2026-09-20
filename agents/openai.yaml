@@ -1,0 +1,4 @@
+interface:
+  display_name: "cheatsheet"
+  short_description: "从课件与可选试题生成密集三栏手写风格双面 A4 考试速查表"
+  default_prompt: "使用 $cheatsheet，根据我提供的课件和可选试题，制作附来源页码、重点标记的三栏手写风格双面 A4 cheatsheet。"
